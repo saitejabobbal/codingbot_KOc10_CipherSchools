@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>
+            about the color 
+        </title>
+        <style>
+          *{text-align:center;background-color:aqua ;}
+          #para1{font-color:purple}
+          #para2{font-color:green}
+          #para3{font-color:yellow}
+          #para4{font-color:magenta}
+          #para5{font-color:cyan}
+          </style>
+    </head>
+    <body>
+        <P id="para1">Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry</P>
+        <P id="para2 ">Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry</P>
+        <p id="para3">Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry</p>
+        <p id="para4">Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry</p>
+        <p id="para5">Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerr</p>
+        <h1>Ordered list</h1>
+
+
+    </body>
+</html>
